@@ -1,0 +1,29 @@
+﻿  ColorConversionView.cpp
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(148): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(134): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(133): warning C4101: 'g' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(134): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(196): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(179): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(178): warning C4101: 'g' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(179): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(274): warning C4244: '=': 'LONGLONG'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(240): warning C4101: 'rcolor' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(230): warning C4101: 'bl' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(240): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(230): warning C4101: 'gr' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(231): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(241): warning C4101: 'gray' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(240): warning C4101: 'gcolor' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(231): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(230): warning C4101: 'rd' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(319): warning C4101: 'rcolor' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(310): warning C4101: 'bl' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(319): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(310): warning C4101: 'gr' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(314): warning C4101: 'p1' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(311): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(319): warning C4101: 'g' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(311): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+c:\users\is7se\documents\colorconversion_2016\colorconversion\colorconversionview.cpp(310): warning C4101: 'rd' :참조되지 않은 지역 변수입니다.
+  ColorConversion.vcxproj -> C:\Users\is7se\Documents\ColorConversion_2016\x64\Debug\ColorConversion.exe
